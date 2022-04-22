@@ -6,10 +6,11 @@ linux_四级项目_五级项目
 
 白嫖伤人，点赞才是可持续发展的道路
 
-写的不是很好，如果您觉得哪里有问题，或者有什么高见，请联系我:
+写的不是很好，如果您觉得哪里有问题，或者有什么高见，
 
+请联系我:[点击此处](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=2781343172&website=www.oicqzone.com "qq")
 
-[点击此处]()([tencent://AddContact/?fromId=45&amp;fromSubId=1&amp;subcmd=all&amp;uin=2781343172&amp;website=www.oicqzone.com](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=2781343172&website=www.oicqzone.com))
+`<a href="baidu.com" /a>`
 
 ## 文件规格
 
