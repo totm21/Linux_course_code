@@ -1,0 +1,4 @@
+make
+echo -e "\nsudo ./server"
+sudo ./server
+make clean

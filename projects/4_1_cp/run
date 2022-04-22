@@ -1,0 +1,9 @@
+make
+echo -e "\nf1:"
+cat f1
+echo -e "./cp f1 f2\n"
+./cp f1 f2
+echo -e "f2:"
+cat f2
+rm f2
+make clean

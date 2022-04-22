@@ -1,0 +1,5 @@
+echo -e "\nsudo ./client"
+sudo ./client
+sleep 5
+echo -e "\nsudo ./client"
+sudo ./client

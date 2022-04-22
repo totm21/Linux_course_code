@@ -1,0 +1,10 @@
+make
+echo -e "\nsudo ./creat"
+sudo ./creat
+echo -e "\nsudo ./write chengzhi"
+sudo ./write chengzhi
+echo -e "\nsudo ./read"
+sudo ./read
+echo -e "\nsudo ./del"
+sudo ./del
+make clean

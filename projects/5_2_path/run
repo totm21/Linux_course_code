@@ -1,0 +1,4 @@
+make
+./path test
+./path test hello
+make clean

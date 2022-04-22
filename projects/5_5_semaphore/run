@@ -1,0 +1,14 @@
+make
+echo -e "\nsudo ./semaphore"
+sudo ./semaphore
+
+echo -e "\nipcs -s"
+ipcs -s
+
+echo -e "\nsudo ./semaphore del"
+sudo ./semaphore del
+
+echo -e "\nipcs -s"
+ipcs -s
+
+make clean

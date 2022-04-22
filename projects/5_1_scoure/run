@@ -1,0 +1,4 @@
+make
+make clean_o
+./scoure
+make clean_r

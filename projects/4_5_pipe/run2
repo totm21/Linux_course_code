@@ -1,0 +1,2 @@
+echo -e "\n./pipe read"
+./pipe read

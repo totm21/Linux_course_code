@@ -1,0 +1,10 @@
+make
+echo -e "\n./pipe creat"
+./pipe creat
+
+echo -e "\n./pipe write chengzhi"
+./pipe write chengzhi
+
+echo -e "\n./pipe delete"
+./pipe delete
+make clean
