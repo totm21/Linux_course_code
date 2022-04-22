@@ -10,7 +10,8 @@ linux_四级项目_五级项目
 
 请联系我:[点击此处](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=2781343172&website=www.oicqzone.com "qq")
 
-`<a href="baidu.com" /a>`
+
+<a href="tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=2781343172&website=www.oicqzone.com" a>CZ</a>
 
 ## 文件规格
 
