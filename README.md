@@ -13,6 +13,8 @@ linux_四级项目_五级项目
 
 <a href="tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=2781343172&website=www.oicqzone.com" a>CZ</a>
 
+<a href="http://baidu.com" a>C2Z</a>
+
 ## 文件规格
 
 命名方式为  级数_序号_项目英文名
