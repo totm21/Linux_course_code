@@ -8,10 +8,7 @@ linux_四级项目_五级项目
 
 写的不是很好，如果您觉得哪里有问题，或者有什么高见，
 
-请联系我:[点击此处](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=2781343172&website=www.oicqzone.com "qq")
-
-
-<a href="tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=2781343172&website=www.oicqzone.com" a>CZ</a>
+请联系我:
 
 <a href="http://baidu.com" a>C2Z</a>
 
