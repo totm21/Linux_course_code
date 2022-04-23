@@ -8,7 +8,7 @@ linux_项目  仅供参考 互相学习
 
 写的不是很好，如果您觉得哪里有问题，或者有什么高见，请联系我:
 
-<a href="http://totm.world" a>totm.world </a>
+<a href="http://totm.world/reads.action?id=1818658320" a>totm.world </a>
 
 ## 文件规格
 
