@@ -7,7 +7,7 @@ void input(Student **students,int n)
     for(int i=0;i<n;i++)
     {
         printf("please input %d student-name:",i+1);
-        scanf("%s",students[i]->name);
+        scanf("%s",(*students)[i].name);
         //scanf("%s",students[i]->name);
         printf("please input %d student-age:",i+1);
         scanf("%d",&(*students)[i].age);
